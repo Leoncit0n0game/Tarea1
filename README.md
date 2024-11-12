@@ -1,1 +1,4 @@
-# Tarea1
+# CheatStore
+# Integrantes
+# Toral Torres Etienne Leafar
+# Curiel Gonzalez Leonardo Daniel
